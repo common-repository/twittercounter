@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TwitterCounter 1.3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-16 00:35-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ajay D'Souza <me@ajaydsouza.com>\n"
+"Language-Team: Team Blogos <wordpress@blogos.dk>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_c;_e;__ngettext:1,2;__ngettext_noop:1,2;_n:1,2;"
+"_nc:1,2;_n_noop:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.inc.php:38
+msgid "Options saved successfully."
+msgstr "Indstillingerne blev gemt."
+
+#: admin.inc.php:47
+msgid "Options set to Default."
+msgstr "Indstillinger sat til standardværdierne."
+
+#: admin.inc.php:53 admin.inc.php:248 twittercounter.php:268
+#, fuzzy
+msgid "Twitter Counter"
+msgstr "TwitterCounter"
+
+#: admin.inc.php:59 admin.inc.php:128 admin.inc.php:166 admin.inc.php:188
+#: admin.inc.php:208 admin.inc.php:218
+msgid "Click to toggle"
+msgstr ""
+
+#: admin.inc.php:60
+#, fuzzy
+msgid "Twitter Buttons"
+msgstr "Twitter-brugernavn:"
+
+#: admin.inc.php:64
+msgid "Twitter username:"
+msgstr "Twitter-brugernavn:"
+
+#: admin.inc.php:70
+#, fuzzy
+msgid "Twitter ID:"
+msgstr "Twitter-brugernavn:"
+
+#: admin.inc.php:73
+msgid ""
+"Find out your Twitter ID from <a href=\"http://tweeterid.com/\" target="
+"\"_blank\">TweeterID</a> or <a href=\"http://id.twidder.info/\" target="
+"\"_blank\">TwIDder</a> or <a href=\"http://idfromuser.org/\" target=\"_blank"
+"\">idfromuser.org</a> or <a href=\"http://www.idfromuser.com/\" target="
+"\"_blank\">idfromuser.com</a>"
+msgstr ""
+
+#: admin.inc.php:77
+#, fuzzy
+msgid "Select Style of Twitter Counter badge"
+msgstr "Vælg Style til TwitterCounter-skiltet"
+
+#: admin.inc.php:81 admin.inc.php:137
+msgid ""
+"If you have never used Twitter Counter before please visit <a href=\"http://"
+"twittercounter.com\" target=\"_blank\">http://twittercounter.com</a>, enter "
+"your Twitter username and hit <strong>Get Stats</strong>"
+msgstr ""
+
+#: admin.inc.php:87
+#, fuzzy
+msgid "Twitter Button with your photo"
+msgstr "Twitter-brugernavn:"
+
+#: admin.inc.php:96
+#, fuzzy
+msgid "Big Bird Twitter Button"
+msgstr "Twitter-brugernavn:"
+
+#: admin.inc.php:105
+#, fuzzy
+msgid "Classic Twitter Button"
+msgstr "Twitter-brugernavn:"
+
+#: admin.inc.php:109
+msgid "Choose settings for the above button:"
+msgstr ""
+
+#: admin.inc.php:110
+msgid "Text Color"
+msgstr ""
+
+#: admin.inc.php:112 admin.inc.php:151 twittercounter.php:415
+msgid "Background Color"
+msgstr ""
+
+#: admin.inc.php:118 twittercounter.php:296
+msgid "Count only"
+msgstr ""
+
+#: admin.inc.php:122
+msgid ""
+"This generates just the count wrapped with a div with <code>id="
+"\"TwitterCounter\"</code>. You can enter your own styles in the "
+"<strong>Custom Styles</strong> tab"
+msgstr ""
+
+#: admin.inc.php:129 twittercounter.php:361
+msgid "Twitter Widget"
+msgstr ""
+
+#: admin.inc.php:132
+msgid "Preview"
+msgstr "Preview"
+
+#: admin.inc.php:133
+#, fuzzy
+msgid "Select options for Twitter Widget"
+msgstr "Vælg indstillinger for Twitter Remote"
+
+#: admin.inc.php:139
+msgid "User ID"
+msgstr "Bruger-id"
+
+#: admin.inc.php:141
+#, fuzzy
+msgid "This is the value of <code>users_id</code> in script code generated "
+msgstr ""
+"Genereres automatisk ud fra dit brugernavn. Dette er værdien af "
+"<code>users_id</code> i den skript-kode, der genereres "
+
+#: admin.inc.php:145
+msgid "Text and links"
+msgstr ""
+
+#: admin.inc.php:146
+msgid "used for usernames and hyperlinks"
+msgstr "Bruges til brugernavne og hyperlinks"
+
+#: admin.inc.php:148
+#, fuzzy
+msgid "Header horizontal rules"
+msgstr "Bruges til horisontale linjer og tekst"
+
+#: admin.inc.php:149
+msgid "used for horizontal rulers and text"
+msgstr "Bruges til horisontale linjer og tekst"
+
+#: admin.inc.php:152
+msgid "used for some (not all) backgrounds"
+msgstr ""
+
+#: admin.inc.php:154 twittercounter.php:396
+msgid "Number of rows"
+msgstr "Antal rækker"
+
+#: admin.inc.php:155
+msgid "How many Twitter users do you want to show? Min 6"
+msgstr "Hvor man Twitter-brugere ønsker du at vise? Min 6"
+
+#: admin.inc.php:157 twittercounter.php:390
+msgid "Width"
+msgstr "Bredde"
+
+#: admin.inc.php:158
+msgid "How wide should the widget be? Min 180 pixels"
+msgstr "Hvor bred skal widgetten være? Min 180 pixels"
+
+#: admin.inc.php:167
+msgid "Custom Styles"
+msgstr ""
+
+#: admin.inc.php:170
+msgid "Custom CSS to add to header:"
+msgstr ""
+
+#: admin.inc.php:173
+msgid ""
+"Do not include <code>style</code> tags. Check out the <a href=\"http://"
+"wordpress.org/extend/plugins/twittercounter/faq/\">FAQ</a> for available CSS "
+"classes to style."
+msgstr ""
+
+#: admin.inc.php:180
+msgid "Do you want to set options to Default?"
+msgstr ""
+
+#: admin.inc.php:189
+#, fuzzy
+msgid "Support the development"
+msgstr "Støt udviklingen"
+
+#: admin.inc.php:198
+msgid "Enter amount in USD: "
+msgstr ""
+
+#: admin.inc.php:202
+msgid "Send your donation to the author of"
+msgstr ""
+
+#: admin.inc.php:209
+msgid "Follow me"
+msgstr ""
+
+#: admin.inc.php:219
+msgid "Quick links"
+msgstr ""
+
+#: admin.inc.php:223
+#, fuzzy
+msgid "Twitter Counter plugin page"
+msgstr "TwitterCounter"
+
+#: admin.inc.php:224
+msgid "Other plugins"
+msgstr ""
+
+#: admin.inc.php:225
+msgid "Ajay's blog"
+msgstr ""
+
+#: admin.inc.php:226
+msgid "FAQ"
+msgstr ""
+
+#: admin.inc.php:227 twittercounter.php:534
+msgid "Support"
+msgstr ""
+
+#: admin.inc.php:228
+#, fuzzy
+msgid "Reviews"
+msgstr "Preview"
+
+#: twittercounter.php:67
+#, fuzzy
+msgid ""
+"Please visit WP-Admin &gt; Settings &gt; Twitter Counter and enter your "
+"Twitter username"
+msgstr ""
+"Gå til WP-kontrolpanelet under &gt; Indstillinger &gt; TwitterCounter og "
+"indtast dit Twitter-brugernavn"
+
+#: twittercounter.php:128
+#, fuzzy
+msgid ""
+"Please visit WP-Admin &gt; Settings &gt; Twitter Counter and enter your "
+"Twitter username."
+msgstr ""
+"Gå til WP-kontrolpanelet under &gt; Indstillinger &gt; TwitterCounter og "
+"indtast dit Twitter-brugernavn"
+
+#: twittercounter.php:154
+#, php-format
+msgid ""
+"<strong style=\"%1$s\">Get <a href=\"http://ajaydsouza.com/wordpress/plugins/"
+"twittercounter/\" style=\"%2$s\" rel=\"nofollow\">Twitter Counter WordPress "
+"Plugin</a></strong>"
+msgstr ""
+
+#: twittercounter.php:269
+#, fuzzy
+msgid "Display Twitter Counter button"
+msgstr "TwitterCounter"
+
+#: twittercounter.php:286 twittercounter.php:383
+msgid "Title"
+msgstr ""
+
+#: twittercounter.php:291
+msgid "Style"
+msgstr ""
+
+#: twittercounter.php:293
+msgid "Avatar"
+msgstr ""
+
+#: twittercounter.php:294
+msgid "Big Bird"
+msgstr ""
+
+#: twittercounter.php:295
+msgid "Classic"
+msgstr ""
+
+#: twittercounter.php:362
+#, fuzzy
+msgid "Display Twitter Widget"
+msgstr "Vælg indstillinger for Twitter Remote"
+
+#: twittercounter.php:387
+msgid "Leave the below options blank to use the default settings"
+msgstr ""
+
+#: twittercounter.php:400
+msgid ""
+"Enter 6 character hexadecimal code without the # for the below options. e.g. "
+"for white, enter FFFFFF"
+msgstr ""
+
+#: twittercounter.php:403
+msgid "Header Color"
+msgstr ""
+
+#: twittercounter.php:409
+msgid "Text and links Color"
+msgstr ""
+
+#: twittercounter.php:514
+msgid "Settings"
+msgstr ""
+
+#: twittercounter.php:535
+msgid "Donate"
+msgstr ""
+
+#~ msgid ""
+#~ "Do you want to set options to Default? If you don't have a copy of the "
+#~ "username, please hit Cancel and copy it first."
+#~ msgstr ""
+#~ "Ønsker du at sætte indstillingerne til Standardværdierne? Hvis du ikke "
+#~ "har en kopi af dit brugernavn, så klik på Annullér og kopiér den først."
+
+#~ msgid "Options:"
+#~ msgstr "Indstillinger:"
+
+#, fuzzy
+#~ msgid ""
+#~ "Twitter Widget tends to cache your remote. If you don't see your remote "
+#~ "changing color, please wait for a few minutes. "
+#~ msgstr ""
+#~ "Twitter Remote plejer at cache din Remote. Hvis du ikke kan se, at "
+#~ "remoten skifter farve, så vent venligst nogle få minutter. "
+
+#~ msgid "Try forcing reload"
+#~ msgstr "Prøv at gennemtvinge genindlæsning"
